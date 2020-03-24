@@ -4,38 +4,7 @@
     <meta charset="UTF-8">
     <title>Casa Criativa</title>
 
-    <style>
-
-        body {
-            background: #e5e5e5;
-            color: #25282B;
-
-            text-align: center;
-        }
-
-        button {
-            color: #ff5e84;
-
-            border: none;
-            font-weight: bold;
-            background: none;
-        }
-
-        .fat {
-            color: white;
-            background: #ff5e84;
-        }
-
-        #footer a {
-          color: #25282b;  
-          text-decoration: none;
-        }
-
-        .hide {
-            display: none;
-        }
-
-    </style>
+    <link rel="stylesheet" href="style.css">
   </head>
 
   <body>
@@ -59,17 +28,6 @@
 
     <p id="footer">Com ❤ <a href="http://rocketseat.com.br">Rocketseat</a></p>
     
-    <script>
-
-        document
-            .querySelector("button.fat")
-            .addEventListener("click", function(){
-                document
-                .querySelector("#footer")
-                .classList
-                .toggle("hide")
-            })
-
-    </script>
+    <script src="scripts.js"></script>
   </body>
 </html>
