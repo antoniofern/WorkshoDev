@@ -150,8 +150,9 @@ footer a {
 
   position: absolute;
   top: 0;
-  width: 100vw;
-  height: 100vh;
+  bottom: 0;
+  right: 0;
+  left: 0;
 
   display: flex;
   justify-content: center;
