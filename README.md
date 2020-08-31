@@ -1,3 +1,3 @@
 <p align="center">
-   <img src="./logo.png" alt="Casa Criativa" width="280"/>
+   <img src="./public/logo.png" alt="Casa Criativa" width="280"/>
 </p>
