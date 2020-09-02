@@ -24,7 +24,16 @@
   <sub>OmniStack #11.0 projeto feito com base nas aulas do WorkshopDev. Feito com 💜 by
     <a href="https://github.com/antoniofern">Antonio Fernandes</a>
   </sub>
+   <br/>
+  <p align="center">
+     <a href="#computer-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+     <a href="#construction_worker-how-to-run">How to run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+     <a href="#closed_book-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  </p>
+  
 </div>
+
+
 
 ## 📥 Layout disponível em:
 
