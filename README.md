@@ -26,6 +26,14 @@
   </sub>
 </div>
 
+## 📥 Layout disponível em:
+
+<p align="center">
+    <a title="Layout .fig Web" href="https://www.figma.com/file/Wi3kw0nDxTCKmIYZbFHaMx/CASACRIATIVA?node-id=7%3A63">
+        <img alt="Direct Download" src="https://img.shields.io/badge/Layout%20Web-black?style=flat-square&logo=figma&logoColor=red" width="200px" />
+    </a>
+</p>
+
 # :computer: Tecnologias
 Este projeto foi feito usando as seguintes tecnologias:
 
