@@ -43,6 +43,20 @@
     </a>
 </p>
 
+### Screenshots
+
+<p align="center">
+   <img alt="CasaCriativa-home" src=".github/home.png" width="90%">
+</p>
+
+<p align="center">
+   <img alt="CasaCriativa-ideias" src=".github/lista-ideias.png" width="90%">
+</p>
+
+<p align="center">
+   <img alt="CasaCriativa-novaIdeia" src=".github/nova-ideia.png" width="90%">
+</p>
+
 # :computer: Tecnologias
 Este projeto foi feito usando as seguintes tecnologias:
 
