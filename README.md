@@ -46,15 +46,15 @@
 ### Screenshots
 
 <p align="center">
-   <img alt="CasaCriativa-home" src=".github/home.png" width="90%">
+   <img alt="CasaCriativa-home" src=".github/home.PNG" width="90%">
 </p>
 
 <p align="center">
-   <img alt="CasaCriativa-ideias" src=".github/lista-ideias.png" width="90%">
+   <img alt="CasaCriativa-ideias" src=".github/lista-ideias.PNG" width="90%">
 </p>
 
 <p align="center">
-   <img alt="CasaCriativa-novaIdeia" src=".github/nova-ideia.png" width="90%">
+   <img alt="CasaCriativa-novaIdeia" src=".github/nova-ideia.PNG" width="90%">
 </p>
 
 # :computer: Tecnologias
